@@ -1,5 +1,0 @@
-{
-  "DARKRETRO",
-  "DAGGA",
-  "BRUZEZ"
-}
