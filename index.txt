@@ -30,7 +30,7 @@
   "COME CLOSE",
   "BLIND",
   "BLACK TERMINAL",
-  'BARRIO",
+  "BARRIO",
   "ANTAGONISTIC",
   "WORLDS"
   }
