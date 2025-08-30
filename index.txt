@@ -1,0 +1,9 @@
+{
+  "DARKRETRO",
+  "DAGGA",
+  "BLOUSES BLUE",
+  "BRUZEZ",
+  "BIGGER MAN",
+  "BAMO",
+  "HOLE IN THE SUN"
+  }
