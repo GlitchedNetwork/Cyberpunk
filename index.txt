@@ -1,6 +1,7 @@
 {
   "DARKRETRO",
   "DAGGA",
+  "STAY AT YOUR HOUSE",
   "BLOUSES BLUE",
   "BRUZEZ",
   "BIGGER MAN",
