@@ -1,5 +1,4 @@
 {
-  "Bike",
   "#1 DARKRETRO",
   "#2 DAGGA",
   "#3 BRUZEZ",
